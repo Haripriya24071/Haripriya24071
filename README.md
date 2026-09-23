@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=20&pause=1000&color=FF2D78&center=true&vCenter=true&width=600&lines=CSE+AI+Engineering+Student+%F0%9F%8E%93;I+build+AI+products+people+actually+love+%E2%9C%A8;RAG+%E2%80%A2+LLMs+%E2%80%A2+Computer+Vision+%E2%80%A2+Mobile+Apps;182+contributions+%26+counting+%F0%9F%94%A5;Hackathon+finalist+%F0%9F%8F%86+%E2%80%A2+MAANG-bound+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=20&pause=1000&color=FF2D78&center=true&vCenter=true&width=600&lines=CSE+AI+Engineering+Student+%F0%9F%8E%93;I+build+AI+products+people+actually+love+%E2%9C%A8;+%E2%80%A2+LLMs+%E2%80%A2+Computer+Vision+%E2%80%A2+Mobile+Apps;182+contributions+%26+counting+%F0%9F%94%A5;Hackathon+finalist+%F0%9F%8F%86+%E2%80%A2+MAANG-bound+%F0%9F%9A%80" />
 
 <br/><br/>
 
