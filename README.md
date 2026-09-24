@@ -12,7 +12,7 @@
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-0D0D0D?style=flat-square&logo=github&logoColor=white)](https://github.com/Haripriya24071)
 &nbsp;
-[![Location](https://img.shields.io/badge/📍_Bangalore-1a1a2e?style=flat-square&logoColor=white)](#)
+[![Location](https://img.shields.io/badge/_Bangalore-1a1a2e?style=flat-square&logoColor=white)](#)
 &nbsp;
 [![Views](https://komarev.com/ghpvc/?username=Haripriya24071&color=FF2D78&style=flat-square&label=profile+views)](https://github.com/Haripriya24071)
 
