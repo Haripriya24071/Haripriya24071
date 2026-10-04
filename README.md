@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,2,5,30&height=160&section=header&text=R%20%20Hari%20%20Priya&fontSize=62&fontColor=fff&animation=blinking&fontAlignY=50&stroke=FF2D78&strokeWidth=3" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=R%20Hari%20Priya&fontSize=68&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Builder%20%E2%80%A2%20Bangalore&descAlignY=58&descSize=20&stroke=FF2D78&strokeWidth=2" width="100%" />
 
 <br/>
 
@@ -19,7 +19,15 @@
 
 ---
 
-19. Second year CSE (AI) at Jain University, Bangalore. I like making things — whether that's a product, a pitch, or a playlist. I build multi-agent systems, real-time computer vision pipelines, and full-stack AI products — and I care deeply about the experience layer, the part where *I* decide how it all feels to a real person. I'm drawn to problems that are hard enough to be interesting and real enough to matter. Outside of code I'm into fashion, music, sketching, and the occasional existential rabbit hole. Hackathons are basically my sport. 💥
+<div align="center">
+
+**19 · Second year CSE (AI) · Jain University · Bangalore**
+
+</div>
+
+<br/>
+
+I like making things — whether that's a product, a pitch, or a playlist. I build multi-agent systems, real-time computer vision pipelines, and full-stack AI products — and I care deeply about the experience layer, the part where *I* decide how it all feels to a real person. I'm drawn to problems that are hard enough to be interesting and real enough to matter. Outside of code I'm into fashion, music, sketching, and the occasional existential rabbit hole. Hackathons are basically my sport. 💥
 
 <br/>
 
