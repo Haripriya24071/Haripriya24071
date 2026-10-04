@@ -21,7 +21,7 @@
 
 <div align="center">
 
-**19 · Second year CSE (AI) · Jain University · Bangalore**
+** I am a Second year, BTech CSE (AI) Student  · Jain University · Bangalore**
 
 </div>
 
