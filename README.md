@@ -1,12 +1,25 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=R%20Hari%20Priya&fontSize=68&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Builder%20%E2%80%A2%20Bangalore&descAlignY=58&descSize=20&stroke=FF2D78&strokeWidth=2" width="100%" />
+```
+╔═══════════════════════════════════════════════════════════╗
+║                                                           ║
+║        ██╗  ██╗ █████╗ ██████╗ ██╗    ██████╗ ██████╗   ║
+║        ██║  ██║██╔══██╗██╔══██╗██║    ██╔══██╗██╔══██╗  ║
+║        ███████║███████║██████╔╝██║    ██████╔╝██████╔╝   ║
+║        ██╔══██║██╔══██║██╔══██╗██║    ██╔═══╝ ██╔══██╗  ║
+║        ██║  ██║██║  ██║██║  ██║██║    ██║      ██║  ██║  ║
+║        ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝   ╚═╝      ╚═╝  ╚═╝  ║
+║                                                           ║
+║          [ AI ENGINEER · BUILDER · BANGALORE ]           ║
+║          [ JAIN UNIVERSITY CSE AI · 2ND YEAR ]           ║
+║          [ HACKATHON FINALIST ×3 · OPEN TO INTERN ]      ║
+║                                                           ║
+╚═══════════════════════════════════════════════════════════╝
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&pause=1000&color=FF2D78&center=true&vCenter=true&width=600&lines=multi-agent+systems+%2F%2F+computer+vision+%2F%2F+full-stack+AI;building+products+that+feel+as+good+as+they+work;3+hackathons.+6+projects.+1+internship+away+from+MAANG." />
 
 <br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=19&pause=900&color=FF2D78&center=true&vCenter=true&width=650&lines=19+%7C+2nd+Year+CSE+AI+%40+Jain+University+%7C+Bangalore;AI+Engineer+%E2%80%A2+Builder+%E2%80%A2+Hackathon+Finalist+%C3%97+3+%F0%9F%8F%86;RAG+%C2%B7+LLM+Swarms+%C2%B7+Computer+Vision+%C2%B7+Mobile+Apps;Open+to+Internships+%F0%9F%9A%80" />
-
-<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/-haripriya--tech-FF2D78?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haripriya-tech/)
 [![GitHub](https://img.shields.io/badge/-Haripriya24071-0d0d0d?style=flat-square&logo=github&logoColor=white)](https://github.com/Haripriya24071)
@@ -18,14 +31,6 @@
 <br/>
 
 ---
-
-<div align="center">
-
-** I am a Second year, BTech CSE (AI) Student  · Jain University · Bangalore**
-
-</div>
-
-<br/>
 
 I like making things — whether that's a product, a pitch, or a playlist. I build multi-agent systems, real-time computer vision pipelines, and full-stack AI products — and I care deeply about the experience layer, the part where *I* decide how it all feels to a real person. I'm drawn to problems that are hard enough to be interesting and real enough to matter. Outside of code I'm into fashion, music, sketching, and the occasional existential rabbit hole. Hackathons are basically my sport. 💥
 
