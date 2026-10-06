@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=20&pause=1000&color=FF2D78&center=true&vCenter=true&width=600&lines=CSE+AI+Engineering+Student+%F0%9F%8E%93;I+build+AI+products+people+actually+love+%E2%9C%A8;+%E2%80%A2+LLMs+%E2%80%A2+Computer+Vision+%E2%80%A2+Mobile+Apps;182+contributions+%26+counting+%F0%9F%94%A5;Hackathon+finalist+%F0%9F%8F%86+%E2%80%A2+MAANG-bound+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=20&pause=1000&color=FF2D78&center=true&vCenter=true&width=600&lines=CSE+AI+Engineering+Student+%F0%9F%8E%93;Building+AI+Systems+%26+Developer+Tools;LLMs+%E2%80%A2+RAG+%E2%80%A2+AI+Automation+%E2%80%A2+Computer+Vision;Hackathon+Finalist+%F0%9F%8F%86+%E2%80%A2+Always+Building;9.667+SGPA+%E2%80%A2+Learning+by+Building" />
 
 <br/><br/>
 
@@ -22,7 +22,11 @@
 
 ---
 
-**I'm a CSE AI Engineering student from Bangalore** who builds intelligent products that don't just work — they *feel* good. I care about the full picture: sharp AI on the inside, beautiful experience on the outside. Currently deep in RAG pipelines, LLM orchestration, and anything that pushes the boundaries of what AI can actually do in the real world. Hackathon builder. UI/UX obsessed. MAANG-bound. 💥
+**I'm a CSE AI Engineering student from Bangalore** who enjoys turning ideas into real, usable software. I work across **AI, RAG, LLM applications, automation, and full-stack development**, with a focus on understanding how systems actually work rather than just assembling tools.
+
+I learn best by building — from **AI-powered developer tools and document intelligence systems to hackathon projects solving real-world problems**. Alongside academics, I actively participate in hackathons, technical communities, and developer events where I get to collaborate, experiment, and build under real constraints.
+
+Currently exploring **RAG pipelines, LLM orchestration, AI automation, and intelligent product development** while continuously sharpening my software engineering fundamentals.
 
 <br/>
 
@@ -37,7 +41,8 @@
 <br/><br/>
 
 ![RAG](https://img.shields.io/badge/RAG%20Pipelines-%23FF2D78?style=flat-square)
-![LLM](https://img.shields.io/badge/LLM%20Orchestration-%23c026d3?style=flat-square)
+![LLM](https://img.shields.io/badge/LLM%20Applications-%23c026d3?style=flat-square)
+![AI Automation](https://img.shields.io/badge/AI%20Automation-%234285F4?style=flat-square)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq%20LLaMA-F97316?style=flat-square)
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -52,12 +57,12 @@
 
 | &nbsp; | Project | What it is | Stack |
 |:---:|---|---|---|
-| 🛡️ | **[CrowdShield](https://github.com/Swapnil-Ghosh06/Crowdshield)** &nbsp;`Technova Hackathon` | AI that predicts crowd crush **6–15 min before** it happens. I built the citizen mobile app — bilingual alerts, evacuation routes, real-time zone warnings. | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Expo](https://img.shields.io/badge/-Expo-000?style=flat-square&logo=expo) |
-| 📡 | **[ApiRadar](https://github.com/Haripriya24071/ApiRadar)** &nbsp;`Own Project` ⭐1 | Pre-emptive API breaking-change & deprecation intelligence. *"Don't find out your API broke in production. Find out 3 months before it does."* | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| 📄 | **[DAE](https://github.com/Haripriya24071/DAE)** &nbsp;`Own Project` | Document Analysis Engine — query & compare PDFs with a RAG pipeline and interactive dashboard. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| 🧹 | **[Keyclean](https://github.com/Haripriya24071/Keyclean)** &nbsp;`Own Project` | AI-powered data cleaning web app — smart, beautiful, and fast. | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| 🌊 | **[RippleGuard](https://github.com/syedzahidsaleem/rippleguard)** &nbsp;`Manipal Hackathon 2026` ⭐1 | Multi-camera AI surge & flow tracking for real-world public safety. | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| 🔍 | **[vajra-forensics-platform](https://github.com/syedzahidsaleem/vajra-forensics-platform)** &nbsp;`Forked` | Offline-First Digital Forensics & Secure Data Sanitization Platform. | ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white) |
+| 📡 | **[ApiRadar](https://github.com/Haripriya24071/ApiRadar)** &nbsp; `Personal Project` | Pre-emptive API breaking-change and deprecation intelligence. Monitors API sources, detects changes, analyzes their impact with an LLM, and delivers stack-aware notifications. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| 📄 | **[DAE](https://github.com/Haripriya24071/DAE)** &nbsp; `Personal Project` | Document Analysis Engine built to compare documents, detect agreements and contradictions, identify blind spots, and generate structured analysis using RAG and LLMs. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| 🧹 | **[Keyclean](https://github.com/Haripriya24071/Keyclean)** &nbsp; `Personal Project` | AI-powered data cleaning application focused on turning messy datasets into cleaner, usable data through an interactive web interface. | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| 🛡️ | **[CrowdShield](https://github.com/Swapnil-Ghosh06/Crowdshield)** &nbsp; `TechNova Hackathon` | Crowd-safety system designed to detect dangerous crowd conditions and support rapid response. I contributed to the citizen-facing mobile experience and real-time safety features. | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Expo](https://img.shields.io/badge/-Expo-000?style=flat-square&logo=expo) |
+| 🌊 | **[RippleGuard](https://github.com/syedzahidsaleem/rippleguard)** &nbsp; `Manipal Hackathon 2026` | Multi-camera crowd surge and flow analysis system developed as a team project for public-safety monitoring. | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| 🔍 | **[Vajra](https://github.com/syedzahidsaleem/vajra-forensics-platform)** &nbsp; `Team Project` | Offline-first digital forensics and secure data sanitization platform developed collaboratively. | ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white) |
 
 <br/>
 
