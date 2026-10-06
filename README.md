@@ -1,4 +1,3 @@
-```md
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Hari%20Priya&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20Builder%20%E2%80%A2%20Bangalore&descAlignY=62&descSize=18&stroke=FF2D78&strokeWidth=2" width="100%" />
@@ -102,32 +101,44 @@ Currently exploring **RAG pipelines, LLM orchestration, AI automation, intellige
 
 ## 🧠 What I Like Building
 
-```text
-                    ┌─────────────────────┐
-                    │       PROBLEM       │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │    ARCHITECTURE     │
-                    └──────────┬──────────┘
-                               │
-              ┌────────────────┼────────────────┐
-              ▼                ▼                ▼
-        ┌──────────┐     ┌──────────┐     ┌──────────┐
-        │    AI    │     │ BACKEND  │     │ FRONTEND │
-        │          │     │          │     │          │
-        │ RAG      │     │ APIs     │     │ React    │
-        │ LLMs     │     │ Databases│     │ Web Apps │
-        │ CV       │     │ Systems  │     │ UI/UX    │
-        └────┬─────┘     └────┬─────┘     └────┬─────┘
-             │                │                │
-             └────────────────┼────────────────┘
-                              ▼
-                    ┌─────────────────────┐
-                    │   WORKING PRODUCT   │
-                    └─────────────────────┘
-```
+<table>
+<tr>
+<td align="center">
+
+### 🤖 AI
+
+RAG  
+LLMs  
+Computer Vision  
+AI Automation
+
+</td>
+
+<td align="center">
+
+### ⚙️ Backend
+
+APIs  
+Databases  
+Systems  
+Architecture
+
+</td>
+
+<td align="center">
+
+### 🎨 Frontend
+
+React  
+Web Apps  
+UI/UX  
+Product Interfaces
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 I enjoy taking an idea from **problem → architecture → implementation → working product**, especially when the project forces me to learn something new.
 
@@ -188,7 +199,7 @@ I like environments where I can **build, break things, learn quickly, and ship s
 
 ---
 
-## 🔥 Contribution Graph
+## 🔥 GitHub Contributions
 
 <div align="center">
 
@@ -216,4 +227,3 @@ I like environments where I can **build, break things, learn quickly, and ship s
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hari%20Priya-FF2D78?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haripriya-tech/)
 
 </div>
-```
