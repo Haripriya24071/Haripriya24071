@@ -26,7 +26,7 @@
 
 I'm a **CSE AI Engineering student from Bangalore** who enjoys turning ideas into real, usable software.
 
-I work across **AI, RAG, LLM applications, automation, and full-stack development**, with a focus on understanding how systems actually work rather than just assembling tools. I enjoy building at the intersection of **software engineering and applied AI**.
+I work across **AI, LLM applications, automation, and full-stack development**, with a focus on understanding how systems actually work rather than just assembling tools. I enjoy building at the intersection of **software engineering and applied AI**.
 
 I learn best by building — from **AI-powered developer tools and document intelligence systems** to hackathon projects designed around real-world problems. Beyond academics, I actively participate in **hackathons, technical communities, and developer events**, where I get to collaborate, experiment with new technologies, and learn by actually building.
 
