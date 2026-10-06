@@ -30,7 +30,7 @@ I work across **AI, LLM applications, automation, and full-stack development**, 
 
 I learn best by building — from **AI-powered developer tools and document intelligence systems** to hackathon projects designed around real-world problems. Beyond academics, I actively participate in **hackathons, technical communities, and developer events**, where I get to collaborate, experiment with new technologies, and learn by actually building.
 
-Currently exploring **RAG pipelines, LLM orchestration, AI automation, intelligent developer tools, and stronger software engineering fundamentals.**
+Currently open to software engineering and AI/ML internship opportunities, especially roles where I can contribute to real-world products and grow through hands-on engineering.**
 
 <br/>
 
