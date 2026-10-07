@@ -92,8 +92,8 @@ Currently open to **software engineering and AI/ML internship** opportunities, e
 |:---|:---|:---|:---|
 | **TechNova Hackathon — Season 3** | 🛡️ **[CrowdShield](https://github.com/Swapnil-Ghosh06/Crowdshield)** | 🏆 **Finalist** · AI-powered crowd safety | Built the citizen-facing mobile application with bilingual alerts, evacuation routes, and real-time zone warnings. |
 | **Manipal Hackathon 2026** | 🌊 **[RippleGuard](https://github.com/syedzahidsaleem/rippleguard)** | Multi-camera AI crowd surge & flow analysis | Contributed to the development of the team solution. |
-| **Hackathon** | 🔮 **[Prism](https://github.com/Haripriya24071/Prism)** | Applied AI solution | Contributed to the development of the team project. |
-| **Hackathon** | 🔎 **[Vajra Forensics Platform](https://github.com/syedzahidsaleem/vajra-forensics-platform)** | Digital forensics & secure data sanitization | Contributed to the development of the team platform. |
+| **Hack Spirit Manipal Academy of Higher Education (MAHE)** | 🔮 **[Prism](https://github.com/Haripriya24071/Prism)** | Applied AI solution | Contributed to the development of the team project. |
+| **smart India Hackathon (sih)** | 🔎 **[Vajra Forensics Platform](https://github.com/syedzahidsaleem/vajra-forensics-platform)** | Digital forensics & secure data sanitization | Contributed to the development of the team platform. |
 
 <br/>
 
