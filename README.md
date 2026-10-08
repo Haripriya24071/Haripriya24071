@@ -151,7 +151,7 @@ I like environments where I can **build, break things, learn quickly, and ship s
 
 ---
 
-## 🔥 GitHub Contributions
+##  GitHub Contributions
 
 <div align="center">
 
