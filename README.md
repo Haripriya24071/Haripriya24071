@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=20&pause=1000&color=FF2D78&center=true&vCenter=true&width=700&lines=CSE+AI+Engineering+Student+%F0%9F%8E%93;Building+AI+Systems+%26+Developer+Tools;LLMs+%E2%80%A2+RAG+%E2%80%A2+AI+Automation+%E2%80%A2+Computer+Vision;Hackathon+Finalist+%F0%9F%8F%86+%E2%80%A2+Always+Building" />
+<img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=20&pause=1000&color=FF2D78&center=true&vCenter=true&width=700&lines=CSE+AI+Engineering+Student+%F0%9F%8E%93;Building+AI+Systems+%26+Developer+Tools;LLMs+%E2%80%A2+RAG+%E2%80%A2+AI+Automation+%E2%80%A2+Computer+Vision;Turing+Club+Candidate+%F0%9F%8E%AF+%E2%80%A2+Always+Building" />
 
 <br/><br/>
 
@@ -24,29 +24,29 @@
 
 ## 👋 About Me
 
-I'm a **CSE AI Engineering student from Bangalore** who enjoys turning ideas into real, usable software.
+I'm a **CSE AI Engineering student from Bangalore** who enjoys turning complex ideas into robust, production-grade software systems.
 
-I work across **AI, LLM applications, automation, and full-stack development**, with a focus on understanding how systems actually work rather than just assembling tools. I enjoy building at the intersection of **software engineering and applied AI**.
+I work across **AI, LLM applications, distributed automation, and full-stack development**, focusing heavily on systems engineering fundamentals rather than just assembling high-level wrappers. I enjoy architecting software at the intersection of **core computer science and applied AI**.
 
-I learn best by building — from **AI-powered developer tools and document intelligence systems** to hackathon projects designed around real-world problems. Beyond academics, I actively participate in **hackathons, technical communities, and developer events**, where I get to collaborate, experiment with new technologies, and learn by actually building.
+I learn best by building — from **pre-emptive AI developer tools and document intelligence engines** to hackathon solutions built for real-world constraints. Beyond academics, I actively participate in **hackathons, technical communities, and developer events**, continuously experimenting with emerging technologies.
 
-Currently open to **software engineering and AI/ML internship** opportunities, especially roles where I can contribute to real-world products and grow through hands-on engineering.
+Currently open to **software engineering and AI/ML internship** opportunities, seeking environments where I can build impactful products and scale fast.
 
 <br/>
 
 ---
 
-## ⚡ Tech Stack
+## ⚡ Tech Stack & Core Competencies
 
-| Category | Technologies |
+| Category | Technologies / Concepts |
 |:---|:---|
 | **Languages** | Python · C++ · Java · JavaScript · TypeScript · SQL · HTML · CSS |
 | **Core CS** | **Data Structures & Algorithms (DSA)** · **Object-Oriented Programming (OOP)** · **DBMS** · **Operating Systems** · **Computer Networks** |
-| **AI / ML** | RAG · LLM Applications · AI Automation · Computer Vision · LangChain · FAISS · OpenCV |
-| **Backend** | FastAPI · Flask · REST APIs · Node.js |
+| **AI / ML** | RAG Architectures · LLM Fine-Tuning/App Dev · AI Automation · Computer Vision · LangChain · FAISS · OpenCV |
+| **Backend & Systems** | FastAPI · Flask · REST APIs · Node.js · Celery · Redis · Asynchronous Processing |
 | **Frontend** | React · TypeScript · Tailwind CSS |
 | **Databases** | PostgreSQL · MySQL · MongoDB · Redis |
-| **Tools** | Git · GitHub · VS Code · Docker · Linux |
+| **DevOps & Tools** | Git · GitHub · VS Code · Docker · Linux |
 
 <br/>
 
@@ -60,9 +60,8 @@ Currently open to **software engineering and AI/ML internship** opportunities, e
 ![LLM Applications](https://img.shields.io/badge/LLM%20Applications-c026d3?style=flat-square)
 ![AI Automation](https://img.shields.io/badge/AI%20Automation-7c3aed?style=flat-square)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-9333ea?style=flat-square)
-![Data Structures & Algorithms](https://img.shields.io/badge/DSA-FF2D78?style=flat-square)
-![OOP](https://img.shields.io/badge/OOP-c026d3?style=flat-square)
-![SQL](https://img.shields.io/badge/SQL-7c3aed?style=flat-square)
+![System Design](https://img.shields.io/badge/System%20Design-FF2D78?style=flat-square)
+![DSA](https://img.shields.io/badge/DSA-c026d3?style=flat-square)
 
 </div>
 
@@ -70,44 +69,42 @@ Currently open to **software engineering and AI/ML internship** opportunities, e
 
 ---
 
-## 🚀 Projects
+## 🚀 Projects & Recent Activity
 
-| | Project | Type | Description | Tech Stack |
-|:---:|:---|:---:|:---|:---|
-| 🛰️ | **[ApiRadar](https://github.com/Haripriya24071/ApiRadar)** | **Personal** | Pre-emptive API breaking-change and deprecation intelligence platform that monitors dependency changes, analyzes impact, and delivers actionable notifications before failures reach production. | Python · FastAPI · PostgreSQL · Celery · Redis · React · TypeScript · LLMs |
-| 📄 | **[DAE](https://github.com/Haripriya24071/DAE)** | **Personal** | Document Analysis Engine using RAG to compare documents, identify contradictions and agreements, detect blind spots, and generate structured analysis reports. | Python · Flask · LangChain · FAISS · Hugging Face · LLaMA |
-| 🧹 | **[Keyclean](https://github.com/Haripriya24071/Keyclean)** | **Personal** | AI-powered data cleaning application focused on turning messy datasets into cleaner, usable data through an interactive web interface. | JavaScript · AI · Web Development |
-| 🔮 | **[Prism](https://github.com/Haripriya24071/Prism)** | **Team** | Collaborative hackathon project built around an applied AI solution to a real-world problem. | AI · Software Development |
-| 🛡️ | **[CrowdShield](https://github.com/Swapnil-Ghosh06/Crowdshield)** | **Team** | Crowd-safety solution focused on predicting dangerous crowd conditions and helping people respond before situations escalate. | TypeScript · Expo · React Native · AI |
-| 🌊 | **[RippleGuard](https://github.com/syedzahidsaleem/rippleguard)** | **Team** | Multi-camera AI system focused on monitoring crowd surge and movement patterns for public-safety applications. | JavaScript · AI · Computer Vision |
-| 🔎 | **[Vajra Forensics Platform](https://github.com/syedzahidsaleem/vajra-forensics-platform)** | **Team** | Offline-first digital forensics and secure data sanitization platform designed for privacy-conscious investigations. | Rust · Systems Development |
+| Project | Type | Description | Tech Stack | Last Commit / Status |
+|:---|:---:|:---|:---|:---|
+| **[ApiRadar](https://github.com/Haripriya24071/ApiRadar)** | **Personal** | Pre-emptive API breaking-change & deprecation intelligence platform. Monitors dependency updates, evaluates blast radius, and triggers proactive alerts before production incidents occur. | Python · FastAPI · PostgreSQL · Celery · Redis · React · TypeScript · LLMs | ![Last Commit](https://img.shields.io/github/last-commit/Haripriya24071/ApiRadar?style=flat-square&color=FF2D78) |
+| **[DAE](https://github.com/Haripriya24071/DAE)** | **Personal** | Advanced Document Analysis Engine powered by RAG. Cross-compares corpus documents, isolates logical contradictions, flags blind spots, and synthesizes structured markdown reports. | Python · Flask · LangChain · FAISS · Hugging Face · LLaMA | ![Last Commit](https://img.shields.io/github/last-commit/Haripriya24071/DAE?style=flat-square&color=c026d3) |
+| **[Keyclean](https://github.com/Haripriya24071/Keyclean)** | **Personal** | Intelligent data wrangling pipeline that automates anomaly detection and cleans unstructured datasets into production-ready schemas via an interactive interface. | JavaScript · AI · Web Development | ![Last Commit](https://img.shields.io/github/last-commit/Haripriya24071/Keyclean?style=flat-square&color=7c3aed) |
+| **[Prism](https://github.com/Haripriya24071/Prism)** | **Team** | Collaborative applied AI solution engineered to tackle complex real-world data constraints during hackathons. | AI · Software Development | ![Last Commit](https://img.shields.io/github/last-commit/Haripriya24071/Prism?style=flat-square&color=9333ea) |
+| **[CrowdShield](https://github.com/Swapnil-Ghosh06/Crowdshield)** | **Team** | Real-time crowd safety platform predicting high-density congestion anomalies and delivering localized evacuation prompts. | TypeScript · Expo · React Native · AI | Collaborative Repo |
+| **[RippleGuard](https://github.com/syedzahidsaleem/rippleguard)** | **Team** | Multi-camera computer vision pipeline monitoring localized crowd surges and movement vectors for public safety analytics. | JavaScript · AI · Computer Vision | Collaborative Repo |
+| **[Vajra Forensics Platform](https://github.com/syedzahidsaleem/vajra-forensics-platform)** | **Team** | Offline-first digital forensics suite paired with cryptographically secure data sanitization for isolated security investigations. | Rust · Systems Development | Collaborative Repo |
 
 <br/>
 
 ---
 
-## 🏆 Hackathon Projects
+## 🏆 Hackathon Track Record
 
 | Hackathon | Project | Focus / Achievement | My Contribution |
 |:---|:---|:---|:---|
-| **TechNova Hackathon — Season 3** | 🛡️ **[CrowdShield](https://github.com/Swapnil-Ghosh06/Crowdshield)** | 🏆 **Finalist** · AI-powered crowd safety | Built the citizen-facing mobile application with bilingual alerts, evacuation routes, and real-time zone warnings. |
-| **Manipal Hackathon 2026** | 🌊 **[RippleGuard](https://github.com/syedzahidsaleem/rippleguard)** | Multi-camera AI crowd surge & flow analysis | Contributed to the development of the team solution. |
-| **Hack Spirit Manipal Academy of Higher Education (MAHE)** | 🔮 **[Prism](https://github.com/Haripriya24071/Prism)** | Applied AI solution | Contributed to the development of the team project. |
-| **smart India Hackathon (sih)** | 🔎 **[Vajra Forensics Platform](https://github.com/syedzahidsaleem/vajra-forensics-platform)** | Digital forensics & secure data sanitization | Contributed to the development of the team platform. |
+| **TechNova Hackathon — Season 3** | 🛡️ **[CrowdShield](https://github.com/Swapnil-Ghosh06/Crowdshield)** | 🏆 **Finalist** · AI-powered crowd safety | Engineered the client mobile application featuring bilingual alerts, automated evacuation routing, and dynamic zone-risk notifications. |
+| **Manipal Hackathon 2026** | 🌊 **[RippleGuard](https://github.com/syedzahidsaleem/rippleguard)** | Multi-camera AI crowd surge & flow analysis | Contributed to system architecture and computer vision pipeline integration. |
+| **Hack Spirit MAHE** | 🔮 **[Prism](https://github.com/Haripriya24071/Prism)** | Applied AI solution | Developed core algorithmic components and backend workflow logic. |
+| **Smart India Hackathon (SIH)** | 🔎 **[Vajra Forensics Platform](https://github.com/syedzahidsaleem/vajra-forensics-platform)** | Digital forensics & secure data sanitization | Worked on performance profiling and systems-level utility modules. |
 
 <br/>
 
 ---
 
-## 📚 Currently Learning
+## 📚 Active Learning & Growth
 
-- **Data Structures & Algorithms**
-- **C++** and problem solving
-- **LLM application development**
-- **AI automation**
-- **Backend engineering & API design**
-- **System design fundamentals**
-- Building reliable and production-oriented AI applications
+- Mastering advanced **Data Structures & Algorithms** patterns
+- Deepening systems programming in **C++**
+- Scaling **LLM agent architectures & retrieval mechanisms**
+- Designing distributed **AI automation pipelines**
+- Refining **system design patterns & backend scalability**
 
 <br/>
 
@@ -115,21 +112,16 @@ Currently open to **software engineering and AI/ML internship** opportunities, e
 
 ## 🎯 Beyond Code
 
-Outside of projects, I actively participate in:
-
-- 🏆 Hackathons & developer competitions
-- 💻 Technical communities
-- 🧠 AI / developer events
-- 🎨 UI/UX and product experimentation
-- 🤝 Collaborative team projects
-
-I like environments where I can **build, break things, learn quickly, and ship something real.**
+- 🏆 Active hackathon competitor & builder
+- 💻 Participant in technical hacker communities
+- 🧠 Experimenting with developer tooling & autonomous workflows
+- 🤝 Open to high-velocity team collaboration
 
 <br/>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Metrics & Activity
 
 <div align="center">
 
@@ -151,7 +143,7 @@ I like environments where I can **build, break things, learn quickly, and ship s
 
 ---
 
-##  GitHub Contributions
+## 📈 Contribution Pulse
 
 <div align="center">
 
@@ -171,7 +163,7 @@ I like environments where I can **build, break things, learn quickly, and ship s
 
 ### 💻 Build. Break. Learn. Repeat.
 
-*Always working on something.*
+*Always shipping.*
 
 <br/>
 
