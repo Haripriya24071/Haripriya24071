@@ -24,7 +24,7 @@
 
 ## 👋 About Me
 
-I'm a **CSE AI Engineering student from Bangalore** who enjoys turning ideas into real, usable software.
+I'm a **CSE AI Engineering student from Bangalore** who enjoys turning ideas into real usable software.
 
 I work across **AI, LLM applications, automation, and full-stack development**, with a focus on understanding how systems actually work rather than just assembling tools. I enjoy building at the intersection of **software engineering and applied AI**.
 
