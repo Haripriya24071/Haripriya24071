@@ -36,7 +36,7 @@ Currently open to **software engineering and AI/ML internship** opportunities, e
 
 ---
 
-## ⚡ Tech Stack
+## ⚡ Tech Stack :
 
 | Category | Technologies |
 |:---|:---|
