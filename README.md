@@ -22,7 +22,7 @@
 
 ---
 
-## 👋 About Me :
+## 👋 About Me 
 
 I'm a **CSE AI Engineering student from Bangalore** who enjoys turning ideas into real usable software.
 
