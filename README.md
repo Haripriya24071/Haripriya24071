@@ -22,7 +22,7 @@
 
 ---
 
-## 👋 About Me 
+##  About Me 
 
 I'm a **CSE AI Engineering student from Bangalore** who enjoys turning ideas into real usable software.
 
@@ -36,7 +36,7 @@ Currently open to **software engineering and AI/ML internship** opportunities, e
 
 ---
 
-## ⚡ Tech Stack :
+##  Tech Stack :
 
 | Category | Technologies |
 |:---|:---|
@@ -70,7 +70,7 @@ Currently open to **software engineering and AI/ML internship** opportunities, e
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 | | Project | Type | Description | Tech Stack |
 |:---:|:---|:---:|:---|:---|
