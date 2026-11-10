@@ -153,6 +153,18 @@ I like environments where I can **build, break things, learn quickly, and ship s
 
 ---
 
+## 🐟 Git Koi
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Haripriya24071/Haripriya24071/output/git-koi.gif" alt="Git Koi" />
+
+</div>
+
+<br/>
+
+---
+
 ##  GitHub Contributions
 
 <div align="center">
