@@ -153,7 +153,7 @@ I like environments where I can **build, break things, learn quickly, and ship s
 
 ---
 
-## 🐟 Git Koi
+## Git Koi
 
 <div align="center">
 
