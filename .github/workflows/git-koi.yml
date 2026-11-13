@@ -11,21 +11,17 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
 
-      - name: Generate Git Koi
-        uses:Haripriya24071/Haripriya24071/git-koi@main
+      - uses: yalongwastaken/git-koi@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USER_NAME: "Haripriya24071"
 
-      - name: Set up Git Identity
+      - name: Commit and push
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-      - name: Push generated files
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: "Update git-koi image"
-          file_pattern: "*.gif *.png"
+          git add *.gif *.png || true
+          git commit -m "Update git-koi image" || true
+          git push || true
