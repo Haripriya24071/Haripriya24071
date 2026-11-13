@@ -15,7 +15,7 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Generate Git Koi
-        uses: yalongwastaken/git-koi@main
+        uses:Haripriya24071/Haripriya24071/git-koi@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
