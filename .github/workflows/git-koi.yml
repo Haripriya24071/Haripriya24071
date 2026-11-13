@@ -2,8 +2,8 @@ name: Git Koi
 
 on:
   scheduled:
-    - cron: '0 0 * * *' # Runs daily at midnight UTC
-  workflow_dispatch: # Allows manual trigger from Actions tab
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 jobs:
   build:
