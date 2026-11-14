@@ -157,7 +157,7 @@ I like environments where I can **build, break things, learn quickly, and ship s
 
 <div align="center">
 
-<img src="./koi/git-koi.gif" alt="Git Koi" />
+<img src="https://raw.githubusercontent.com/Haripriya24071/Haripriya24071/main/koi/git-koi.gif" alt="Git Koi" />
 
 </div>
 
